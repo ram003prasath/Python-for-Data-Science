@@ -1,1 +1,1 @@
-# Python-for-Data-Science
+This repository consists python codings for data science
