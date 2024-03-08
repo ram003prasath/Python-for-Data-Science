@@ -1,0 +1,11 @@
+Name,Age,Salary,Country,Gender,Department
+Alice,25,50000,USA,Female,HR
+Bob,,60000,Canada,Male,IT
+Charlie,30,,USA,Male,Finance
+David,22,45000,,Male,IT
+Eva,,,Germany,Female,HR
+Frank,35,,Canada,Male,IT
+Grace,28,55000,USA,Female,Finance
+Hank,,,Germany,Male,IT
+Ivy,31,,Germany,Female,Finance
+Jack,40,80000,USA,Male,HR
